@@ -1,0 +1,489 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royall, and the royallist's plea. Shewing, that the Kings Majesty hath the chiefe power in this realme, and other his dominions, (1 Pet. 2.13.) And to him the chiefe government of all estates of this realme, whether they be civill or ecclesiasticall, in all causes doth appertaine. Artic. 27. of Religion concerning magist.</title>
+            <author>Hudson, Michael, 1605-1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86679</idno>
+            <idno type="STC">Wing H3262</idno>
+            <idno type="STC">Thomason E390_19</idno>
+            <idno type="STC">ESTC R201538</idno>
+            <idno type="EEBO-CITATION">99862037</idno>
+            <idno type="PROQUEST">99862037</idno>
+            <idno type="VID">114186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86679)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114186)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E390[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royall, and the royallist's plea. Shewing, that the Kings Majesty hath the chiefe power in this realme, and other his dominions, (1 Pet. 2.13.) And to him the chiefe government of all estates of this realme, whether they be civill or ecclesiasticall, in all causes doth appertaine. Artic. 27. of Religion concerning magist.</title>
+                  <author>Hudson, Michael, 1605-1648.</author>
+               </titleStmt>
+               <extent>[8], 22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Ano. Domi. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Michael Hudson by Wing.</note>
+                  <note>In the title, "1 Pet. 2.13." is enclosed within square brackets.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>A1r bears quotations from Tertullian and Waldack.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "June ye 3d London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Thirty-nine Articles --  Early works to 1800.</term>
+               <term>Prerogative, Royal --  England --  Early works to 1800.</term>
+               <term>Kings and rulers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Causes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114186:1"/>
+            <pb facs="tcp:114186:1" rendition="simple:additions"/>
+            <p>THE ROYALL, AND THE ROYALLIST'S Plea.</p>
+            <p>Shewing, That the Kings Majeſty hath the chiefe Power In this Realme, and other his Dominions, [1 <hi>Pet.</hi> 2.13.] And to him the chiefe Government of all Eſtates of this Realme, whether they be Ci<g ref="char:EOLhyphen"/>vill or Eccleſiaſticall, in all Cauſes doth apper<g ref="char:EOLhyphen"/>taine. <hi>Artic.</hi> 27. <hi>of Religion concerning Magiſt.</hi>
+            </p>
+            <p>Wee Confeſſe and Acknowledge, Empires, Kingdomes, Dominions and Ci<g ref="char:EOLhyphen"/>ties, to be diſtincted and ordayned by God, for the Manifeſtation of his owne Glory, and for the ſingular Profit and Commodity of Mankinde, [<hi>Prov.</hi> 24.21.22.] So that whoſoever goeth about to take away, or con<g ref="char:EOLhyphen"/>found the whole State of Civill Policies, now long eſtabliſhed; Wee af<g ref="char:EOLhyphen"/>firme the ſame men, not only to bee Enemies to Mankinde, but alſo wickedly to fight againſt Gods expreſſe Will. <hi>Confeſſ. of the church of Scotland, concerning the Civill Magiſtrate.</hi>
+            </p>
+            <p>
+               <hi>And the firſt thing Wee Covenant is, to defend and maintayne the Doctrine of that Church.</hi>
+            </p>
+            <p>
+               <hi>An<hi rend="sup">o</hi>. Dom<hi rend="sup">i</hi>.</hi> 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114186:2"/>
+            <pb facs="tcp:114186:2"/>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>BEFORE I treate of the differences betweene the King and the Parliament,<note place="margin">Of the conſti<g ref="char:EOLhyphen"/>tution of the kingdome of England.</note> and ſet forth the Grounds and Intents of the Warre on both ſides (either Party charging the Other, with a Deſigne to overthrowe the eſtabliſhed Government of the Kingdome) I ſhall promiſe ſomething concerning the Conſtitution of the Kingdome, and Parliament of <hi>England.</hi>
+            </p>
+            <p>And, whereas there are three kindes of Governement,<note place="margin">Three kinds of Government.</note> The firſt <hi>Monarchicall,</hi> by <hi>One;</hi> The ſecond <hi>Ariſtocra<g ref="char:EOLhyphen"/>ticall,</hi> by the <hi>Nobles;</hi> The third <hi>Democraticall,</hi>
+               <note place="margin">England a Mo<g ref="char:EOLhyphen"/>narchy, it con<g ref="char:EOLhyphen"/>ſiſts of a head and a ſubject body.</note> by the <hi>People.</hi> The Government of <hi>England</hi> is of the firſt ſort, <hi>Mo<g ref="char:EOLhyphen"/>narchicall.</hi> And the Monarch is the Head, And (with us) tho Barons and the People, are the Subject-Body of the Kingdome.</p>
+            <p>The King governs the Church by Archbiſhops &amp; Biſhops, And the Civill State by Temporall Officers: And to enable him for that his Adminiſtration and Government,<note place="margin">Sundry Politi<g ref="char:EOLhyphen"/>call Powers in the Monarch for governing the kingdome in it ſelfe, &amp; in order to other Princes and States.</note> the King is inveſted with ſundry politicall Powers as of Treaties of Warre and Peace, of making Peeres, of chooſing Officers and Councellors for State, Judges for Lawe, Commanders for Forts and Caſtles, giving Commiſſions for rayſing Men, to mako warre abroad, or to provide againſt invaſions or inſur<g ref="char:EOLhyphen"/>rections at home, benefit of Confiſcations power of Pardoning, and others of the like kind:<note place="margin">The neceſſity of theſe Powers in the King.</note> And by this Power and Authority he drawes a reſpect and relation from the Nobles, and feare and reverence from the People, and thereby prevents diviſion
+<pb facs="tcp:114186:3"/>
+faction in the one; tumults, violence and Licentiouſneſſe in the other, and ſo preſerves Peace and unity amongſt us: as al<g ref="char:EOLhyphen"/>ſo by the Authority &amp; Power aforeſaid, The King is enabled to diſcharge his Office &amp; Oath, to preſerve the Lawes of the Land in their force, and the Subjects in their Properties and Liberties.</p>
+            <p>
+               <note place="margin">The Parlia<g ref="char:EOLhyphen"/>ment conſiſts of a Head and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſubject Body.</note>And as the Kingdome, ſo the Parliament of England, is conſtituted of a Head, and a Subject-Body; The King being the Head, and the two Houſes the Subject-Body of the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>
+               <q>
+                  <l>The King calls the Parliament and diſſolves it.</l>
+                  <l>He calls each Baron by a peculiar Writ.</l>
+               </q>
+            </p>
+            <p>He ſends forth Writs into the ſeverall Counties, &amp; into the Cities &amp; Boroughs for electing Knights,<note place="margin">A Proxy acts for another by aſſenting &amp; diſ<g ref="char:EOLhyphen"/>ſenting for him but hath no ſu<g ref="char:EOLhyphen"/>periority or au<g ref="char:EOLhyphen"/>thority over him for whom he acts.</note> Citizens &amp; Bur<g ref="char:EOLhyphen"/>geſſes to ſerve for them: and the people meete &amp; chooſe accor<g ref="char:EOLhyphen"/>dingly, &amp; ſend up the perſons ſo choſen, as their Proxies, to ſit and Vote for them by way of aſſent and diſſent, upon all occaſi<g ref="char:EOLhyphen"/>ons in Parliament: and ſo the King and the whole Kingdome (by their Repreſentatives) convene in Parliament.</p>
+            <p>As the Barons ſweare fealty to the King at their Creation ſo the Law requires the Members of the Houſe of Commons to take the oath of Allegiance &amp; Supremacy,<note place="margin">The Lords and Commons ſweare fealty &amp; allegiance to the King.</note> before they are admitted to ſit there.</p>
+            <p>The principall Power and work of the Parliament is in Law making: and our Lawes are made thus, Bills are framed &amp; agreed on by the Lords &amp; Commons and afterward preſented to the King,<note place="margin">How our lawes are made.</note> and by the Royall aſſent they become Lawes. And this is that which the King ſweares to at his Coronation, and it is well expreſſed in the forme at the Coronation of <hi>Edward</hi> the ſixt in theſe following words.<note place="margin">The Oath at king <hi>Edwards</hi> Coronation.</note> Doe you grant to make no new Lawes, but ſuch as ſhall be to the honor of God, and to the good of the Common-wealth, and that the ſame ſhall bee made by the conſent of your People, as hath beene accuſtomed?</p>
+            <p>
+               <note place="margin">Liberty of vote an eſſentiall priviledge of Parliament.</note>And in paſſing of Bills, The King &amp; the Lords and the Commons are to Vote freely, and this liberty of Vote, is the moſt eſſentiall priviledge of Parliament, yea, The King and
+<pb facs="tcp:114186:3"/>
+the Lords and Commons,<note place="margin">Of their Nega<g ref="char:EOLunhyphen"/>tive Votes.</note> have every of them their Negative Vote in this Caſe, thereby to preſerve themſelves and theis Rights and Priviledges one againſt another: And ſo to keepe the Conſtitution of the kingdome inviolate.</p>
+            <p>And it is a peculiar Priviledge of the houſe of Commons, to make the firſt Propoſitions for the Levies of Money,<note place="margin">The priviledge of the Houſe of Commons.</note> which is the Sinews both of Peace and Warre. Alſo that houſe takes notice of the violating of our Liberties, and impeacheth thoſe that have oppreſſed and grieved the Subject.</p>
+            <p>And the Lords proceede againſt them in a judiciary way,<note place="margin">The Judiciary power of the houſe of Lords to remedy miſ<g ref="char:EOLhyphen"/>government.</note> &amp; puniſh them.</p>
+            <p>But in this Caſe the Law ſayes, The King can doe no wrong. And if any thing be done amiſſe in matter of State, the Councell: If in matter of Juſtice,<note place="margin">The King can doe no wrong.</note> the Judges muſt anſwer for it, as themſelves have declared, <hi>May 19. Husbands Col<g ref="char:EOLhyphen"/>lect. pag. 199.</hi>
+            </p>
+            <p>The Houſe of Lords hath alſo a judiary Power upon Writts of Error brought againſt Judgements in inferiour Courts.</p>
+            <p>Alſo, eyther Houſe hath Power over their own Members: But over the Subject at large and in Generall (without the Kings Concurrence) neither houſe hath Power, nor both of them joyned together.</p>
+            <p>Much leſſe have they power over their Soveraigne Lord the King,<note place="margin">They ought to ſupport the king and the Crowne, &amp; not to invade and null them.</note> who hath no Superior under God <hi>(25, Hen. 8.)</hi> &amp; much leſſe over the imperiall Crowne (which hath beene free at all times, and in no earthly Subjection, but immediatly to God in all things touching the Regality of the ſaid Crown <hi>16. R. 2.5.</hi>) And which was never invaded by any Parliawent be<g ref="char:EOLhyphen"/>fore, and there is nothing of Power extraordinary in the pre<g ref="char:EOLhyphen"/>ſent Parliament, but of cantinuance only, being not to be diſ<g ref="char:EOLhyphen"/>ſolved but with the conſent of both houſes of Parlament.<note place="margin">The privile<g ref="char:EOLhyphen"/>ges of the Mem<g ref="char:EOLunhyphen"/>bers of Parlia<g ref="char:EOLhyphen"/>ment.</note>
+            </p>
+            <p>Laſtly, touching the priviledg of the Members of Parlia<g ref="char:EOLhyphen"/>ment themſelves (in their Petition to his Majeſty at the be<g ref="char:EOLhyphen"/>ginning of his Reigne, in the Caſe of the Earle of Arundell) have declared thus. Wee finde it an undoubted Right and con<g ref="char:EOLhyphen"/>ſtant priviledge of Parliament. That no Member of Parli<g ref="char:EOLhyphen"/>ament,
+<pb facs="tcp:114186:4"/>
+ſitting in the Parliament, or within the uſuall times of the priviledge of Parliament, is to bee reſtrayned or imme<g ref="char:EOLhyphen"/>ſoned, without Sentence of the Houſe, unleſſe it bee for high-Treaſon, Felony, or for refuſing to give Surety for the Peace.</p>
+            <p>And ſo in Q. <hi>Elizabeths</hi> time, when <hi>Wentworth</hi> made thoſe motions that were,<note place="margin">
+                  <hi>Wentworths</hi> Caſe.</note> but ſuppoſed dangerous to the Queens Eſtate; Hee was impriſoned in the Tower, notwithſtanding the priviledge of the Houſe, &amp; there dyed.</p>
+            <p>Thus whereas there is in every of the three kindes of Go<g ref="char:EOLhyphen"/>vernment ſome good (as <g ref="char:V">Ʋ</g>nity in <hi>Monarchy;</hi>
+               <note place="margin">The equall &amp; happy conſti<g ref="char:EOLhyphen"/>tution of Eng<g ref="char:EOLhyphen"/>land.</note> Counſell in <hi>A<g ref="char:EOLhyphen"/>riſtocracy;</hi> Liberty in <hi>Democracy</hi>) and ſome evills, (as Tyranny in <hi>Monarchy;</hi> Diviſion &amp; Faction in <hi>Ariſtocracy;</hi> Tumults, Violence and Licentiouſneſſe in <hi>Democracy.</hi>) By the Conſtitution of the Kingdome we have the good of all theſe without the evill of any. And hence, for ſo many hundred yeeres hath the Engliſh Nation beene famous &amp; happy to ad<g ref="char:EOLhyphen"/>miration and envy:<note place="margin">
+                  <hi>Pro.</hi> 24 21.22</note> Even from this Ancient, Equall, Hap<g ref="char:EOLhyphen"/>py,<note place="margin">At preſent the Lords &amp; Com<g ref="char:EOLhyphen"/>mons ſhake off the yoke of ſub<g ref="char:EOLunhyphen"/>jection, and af<g ref="char:EOLhyphen"/>fect the chiefe Power &amp; Go<g ref="char:EOLhyphen"/>vernment; <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or doe they Act as our fellow ſub<g ref="char:EOLhyphen"/>jects &amp; Pro<g ref="char:EOLhyphen"/>xi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, but as our Lords and Ma<g ref="char:EOLhyphen"/>ſters, nor doe they ſtudy Li<g ref="char:EOLhyphen"/>berty with us, and for us, but Soveraignty o<g ref="char:EOLhyphen"/>ver us.</note> Well-poized, &amp; never enough commended Conſtitution of this Kingdome: From which receding, all theſe Politicall E<g ref="char:EOLhyphen"/>vills have overtaken us. Even Tyranny and Oppreſſion, Di<g ref="char:EOLhyphen"/>viſion and Faction, Tumults, Violence and Licentiouſneſſe: And what will or can be the end of this but <hi>Anarchy,</hi> Confu<g ref="char:EOLhyphen"/>ſion and utter Deſtruction of the <hi>King,</hi> of the <hi>Parliament,</hi> of the <hi>Kingdome,</hi> of the <hi>N<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion?</hi>
+            </p>
+            <p>
+               <q>Oh that they were wiſe, that they un<g ref="char:EOLhyphen"/>derſtood, that they would conſi<g ref="char:EOLhyphen"/>der their latter end. <bibl>
+                     <hi>Deut.</hi>32.29.</bibl>
+               </q>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:114186:4"/>
+            <head>THE ROYALL, and ROYALLIST'S PLEA.</head>
+            <p>THAT the chiefe Promoter of the preſent war had a deſigne againſt his Majeſty and againſt Monarchy, is now manifeſt to all the World,<note place="margin">The Vote for ſending the king to War<g ref="char:EOLhyphen"/>wick Caſtle.</note> by the laſt vote for ſending the King to Warwick Caſtle; and by Mr. Prideux his ſpeech in October laſt, for,<note place="margin">Mr. Prideux his ſpeech, for abandoning Monarchy.</note> abandoning Monarchy (now they have gotten the power of the Sword) and for ſetling the government of the King<g ref="char:EOLhyphen"/>dome in the two Houſes of Parliament.</p>
+            <p>But our Plea is grounded upon former Evidences,<note place="margin">The ground of this Plea.</note> from the very ſummoning of this Parliament, unto the taking up of armes.</p>
+            <p>For how did they ſtickle in the Counties and Burroughs,<note place="margin">They Stickle a<g ref="char:EOLunhyphen"/>bout Elections.</note> for ſuch to be elected into the houſe of Commons as were of their opinions and inclinations? And no ſooner did they meete and ſit in Parliament, but they ratified and damned Elections at pleaſure, in Order to their Deſigne.<note place="margin">
+                  <p>A Bill againſt Biſhops, &amp; the Militia.</p>
+                  <p>Seditious Le<g ref="char:EOLhyphen"/>cturers and Pampleters.</p>
+                  <p>The Proteſta<g ref="char:EOLhyphen"/>tion proteſted, and To thy Tents Oh Iſ<g ref="char:EOLhyphen"/>rael.</p>
+                  <p>Tumults.</p>
+               </note>
+            </p>
+            <p>The Members thus prepared: They bring in two Bills The one to take away Biſhops, Roote and Branch, The o<g ref="char:EOLhyphen"/>ther to take the Militia, by Sea and Land from the King; the later beeing preferred by Sr. <hi>Arthur Haſlerigg.</hi>
+            </p>
+            <p>And fayling in this way, thee ſend forth factious and ſe<g ref="char:EOLhyphen"/>ditious Lecturers, which inveigh againſt the preſent Go<g ref="char:EOLhyphen"/>vernment of Church and State, and they Licenſe Pam<g ref="char:EOLhyphen"/>phlets, that deprave the Government of the Kingdom.</p>
+            <p>The people thus prepared, They rayſe tumults in Lon<g ref="char:EOLhyphen"/>don,
+<pb n="2" facs="tcp:114186:5"/>
+to force and compell the Parliament to joyne with them,<note place="margin">Tho<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> accuſed Memb<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> pro<g ref="char:EOLhyphen"/>tected</note> in the proſecution of their Deſigne; and his Majeſty charging them with high Treaſon for theſe attempts againſt himſelfe and againſt the Parliament: They get them<g ref="char:EOLhyphen"/>ſelves protected under the pretended priviledge of Parlia<g ref="char:EOLhyphen"/>ment: from verball they fall to reall-Treaſons; and they poſſeſſe themſelves of the Forts and Caſtles, after that his Majeſty had promiſed for their ſecurity, that they ſhould be only in ſuch hands as they ſhould have cauſe to confide in. <hi>Jan.</hi> 27.</p>
+            <p>
+               <note place="margin">The Forts and Caſtles, &amp; the Militia<g ref="char:punc">▪</g> with the Navy Roy<g ref="char:EOLhyphen"/>all taken from his Majeſty.</note>And they diſpoſe and execute the Militia of the King<g ref="char:EOLhyphen"/>dome, altogether excluding his Majeſty, after that for their farther ſecurity, he had accepted of the Lords Lieutenants in the ſeverall Counties recommended by them <hi>Feb.</hi> 28. And after he had condiſcended touching the Militia of the Corporations <hi>April.</hi> 8.</p>
+            <p>
+               <note place="margin">What reaſon they pretended for the Militia</note>In the laſt places they ſeize on the Navy-Royall. And (in their votes of <hi>March</hi> 15.) she reaſon pretended for the Militia, was to defend the kingdome againſt Enemies from abroad (when we had none) and againſt the Papiſts at home (when they were naked and without Armes) and a<g ref="char:EOLhyphen"/>gainſt a diſcontented party amongſt us <hi>(i.e.)</hi> againſt the King and his party, whom they had diſcontented and high<g ref="char:EOLhyphen"/>ly provoked by their late proceedings.</p>
+            <p>
+               <note place="margin">See the opini<g ref="char:EOLhyphen"/>on of the judges in the Caſe of the E. of Eſſex.</note>And as their ſeizing their Forts and Caſtles, &amp;c. was needleſſe in the two former reſpects, ſo in the later was it Rebellious, being not for the publique, but for their private ſecurity and advantage: not to defend the Kingdome a<g ref="char:EOLhyphen"/>gainſt danger, but to protect themſelves againſt juſtice: not to put us into a poſture of defence againſt a common Ene<g ref="char:EOLhyphen"/>my, but to put themſelves into a poſture of power and ſtrength againſt his Majeſty, thereby at once enabling them<g ref="char:EOLhyphen"/>ſelves to force him and diſable him to reſiſt them in the pro<g ref="char:EOLhyphen"/>ſecution of their deſigne againſt him.</p>
+            <p>And no ſooner had they got the full ſtrength of the king<g ref="char:EOLhyphen"/>dome, but they actually and profeſſedly ſet themſelves a<g ref="char:EOLhyphen"/>gainſt his Majeſty.</p>
+            <p>
+               <pb n="3" facs="tcp:114186:5"/>Sir <hi>John Hotham</hi> keepes him out of Hull <hi>Aprill.</hi> 23.<note place="margin">
+                  <hi>Sr.</hi> John Ho<g ref="char:EOLhyphen"/>tham.</note> And the two Houſes juſtifie his Trayterous Act <hi>Aprill</hi> 28.</p>
+            <p>Not long after Mr. <hi>Martin</hi> ſayes openly in the houſe of Commons, and unreproved.<note place="margin">Mr. Martin.</note> That the Kings Office is for<g ref="char:EOLhyphen"/>feitable. And that the happineſſe of this Kingdome,<note place="margin">They ſtrike at Monarchy, as at Epiſcopacy, root &amp; branch.</note> did not depend upon his Majeſty, or any of the Royall branches of that Roote.</p>
+            <p>And Sy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Henry Ludlow.</hi> That he was not worthy to be King of England,<note place="margin">
+                  <p>Sr. <hi>Henry Lud<g ref="char:EOLhyphen"/>low.</hi>
+                  </p>
+                  <p>Both Houſes tacitly imply the depoſing of the King.</p>
+                  <p>They make at<g ref="char:EOLhyphen"/>tempts upon the Imperiall Crowne.</p>
+                  <p>The Kings Ne<g ref="char:EOLunhyphen"/>gative vote. The 19 Propo<g ref="char:EOLhyphen"/>ſitions.</p>
+               </note> which doubtleſſe was the ſence of the Parliament. For <hi>May</hi> 26. both houſes declare. That they ſhould not want modeſty if they follow'd the higheſt Pre<g ref="char:EOLhyphen"/>cedents of other Parliaments.</p>
+            <p>The Crowne it ſelfe cannot eſcape them, nay they ayme at that ultimately:</p>
+            <p>For in the ſame Declaration they deny the kings negative Vote in Parliament.</p>
+            <p>And to deprive the King and the Crown of their power, not only in Law-making, but alſo in Governing, They of<g ref="char:EOLhyphen"/>fer to his Majeſty 19 Propoſitions, deſtructive of Regality and Monarchy <hi>Iune</hi> 2.</p>
+            <p>And they enforce them as abſolutely neceſſary to the publique ſafety; whereas to the Kingdomes ſecurity, The Forts, and Caſtles, and the Militia, and the Navy, alone are ſufficient, in caſe of danger: and ſo the particulars are propoſed and impoſed on his Majeſty, only by way of de<g ref="char:EOLhyphen"/>ſigne, to undermine Kingſhip and Monarchy. And his Ma<g ref="char:EOLhyphen"/>jeſties former condiſcentions touching the Forts and Ca<g ref="char:EOLhyphen"/>ſtles, and the Militia, and the Navy,<note place="margin">Note.</note> being more then ſuffi<g ref="char:EOLhyphen"/>cient againſt their pretended dangers, at preſent, they alſo are demanded, not for neceſſity, but meerly of deſigne and policie:<note place="margin">They claime an abſolute po<g ref="char:EOLhyphen"/>wer over the Subject, in Or<g ref="char:EOLunhyphen"/>der to their Cauſe, and to the preſent Warre.</note> And they take up Armes in proſecution of theſe Propoſitions and demands, <hi>Iune</hi> 10. After they had in the forecited-Declaration of <hi>May</hi> 26. claimed a power over the people of the Land, to diſpoſe of their perſons and e<g ref="char:EOLhyphen"/>ſtates, in Order to their Cauſe, and to compell them to ſerve in the preſent Warre.</p>
+            <p>
+               <pb n="4" facs="tcp:114186:6"/>
+               <note place="margin">The whol Se<g ref="char:EOLhyphen"/>ries of Occur<g ref="char:EOLhyphen"/>rents diſcover their Deſigne.</note>Thus the entire Series of Occurrents (from their Sum<g ref="char:EOLhyphen"/>mons to their Armes) plainly diſcovers the malice of their hearts, and the Reality of their Deſigne, againſt the King, and againſt the Crowne.</p>
+            <p>
+               <note place="margin">The ſeverall particulars ſhew how they have moved from time to time.</note>And the ſeverall particulars ſhew cleerly how they have moved from time to time; firſt in a Parliamentary way by Bill, then by Pamphlets, in a ſeditious way; afterwards in a Tumultuary way, againſt the Parliament; Next, un<g ref="char:EOLhyphen"/>der the pretended priviledg of Parliament, againſt the king; Then by uſurping the ſtrength of the Kingdome, and with inſolency againſt his Majeſty, and not without attempts upon the Crowne it ſelfe; And laſtly (other meanes being ineffectuall) by force of Armes,<note place="margin">Why they ray<g ref="char:EOLhyphen"/>ſed their Arms and continue them, &amp; when they will lay them downe.</note> rayſed at firſt to maintain and make good whatſoever they had preferred, publiſhed acted, uſurped, ſpoken, declared, propoſed; and to drive on their Deſigne againſt the King, and to alter the Govern<g ref="char:EOLhyphen"/>ment of the Kingdome, and to this day continued to per<g ref="char:EOLhyphen"/>fect that alteration (begun in part already) and not to bee laid downe, till it be compleated and ſetled, to the utter overthrow of Monarchy; and conſequently to the Ruine and deſtruction of his Majeſty and his Poſterity, who are the only Rub in their way, and to be neceſſarily removed, before their dominion can be eſtabliſhed.</p>
+            <p>I ſhall omit all other Particulars before rehearſed (leave<g ref="char:EOLhyphen"/>ing them to the further conſideration of every private man) and inſiſt only on the Propoſitions,<note place="margin">Why the other particulars were omitted, and the Propo<g ref="char:EOLhyphen"/>ſitions only in<g ref="char:EOLhyphen"/>ſiſted on.</note> which are the very drift of all the former proceedings, and a lively Portraiture of the whole Plot, and the reaſon of the firſt Armes, and the con<g ref="char:EOLhyphen"/>ſtant Argument of their Treaties, and conſequently the ground and end of the Warre.</p>
+            <div type="part">
+               <pb n="5" facs="tcp:114186:6"/>
+               <head>The true ſtate of the Warre, on the Kings ſide and on the Parliaments.</head>
+               <p>THE Lords and Commons aſſembled in Parliament alleage, That there was a Deſigne by Papiſts,<note place="margin">The Allegati<g ref="char:EOLhyphen"/>on of the Lords and Commons for taking up Armes.</note> and by an ill-aff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted Party, to overthrowe our Religion, Lawes and Liberties, and to introduce Popery and Tyran<g ref="char:EOLhyphen"/>ny, and that they tooke up Armes to defend our Religion, L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wes and Liberties.</p>
+               <p>The King alleageth, That there was a Deſigne by a fa<g ref="char:EOLhyphen"/>ctious, ſeditious, anti-Monarchicall Party,<note place="margin">The Kings Al<g ref="char:EOLhyphen"/>legation for his taking up of Armes.</note> to overthrowe the eſtabliſhed government of Church and State, and to ſettle the chiefe Power and Government in the two Hou<g ref="char:EOLhyphen"/>ſes of Parliament: And that upon their Allegation afore<g ref="char:EOLhyphen"/>ſaid, and in Order to their Deſigne aforeſaid, the two Hou<g ref="char:EOLhyphen"/>ſes have claimed and exerciſed a Soveraigne Power over the Lawes of the Land, and an Arbitrary and Tyrannicall Po<g ref="char:EOLhyphen"/>wer over our perſons and Eſtates, and have levyed warre, and compelled us to ſerve in the warre, as was pretended to keepe out Tyranny and Popery, and ſo to carry on their Deſigne againſt Regallity and Monarchy. And his Majeſty tooke up Armes, as he alleageth, to maintaine the ancient Government of the Kingdome, and our eſtabliſhed Religi<g ref="char:EOLhyphen"/>on, Lawes and Liberty.</p>
+               <p>Now the true cauſe of taking up and continuing of Armes on each ſide,<note place="margin">The true Cauſe of the war, on both ſides.</note> is beſt knowne by their Propoſitions offered before, and treated on ſince the warre,</p>
+            </div>
+            <div type="part">
+               <head>The Parliaments Propoſitions.<note place="margin">The Parlia<g ref="char:EOLhyphen"/>ments Propoſi<g ref="char:EOLhyphen"/>tions.</note>
+               </head>
+               <p>THAT a Bill be paſſed for the utter aboliſhing and ta<g ref="char:EOLhyphen"/>king away Arch-Biſhops, &amp;c.<note place="margin">For aboliſhing Biſhops.</note>
+               </p>
+               <p>
+                  <pb n="6" facs="tcp:114186:7"/>
+                  <note place="margin">For nomina<g ref="char:EOLhyphen"/>ting the Offi<g ref="char:EOLhyphen"/>cers of State, and the Judges in England.</note>That the Lord high Steward of England, Lord high Con<g ref="char:EOLhyphen"/>ſtable, Lord Chancellor or Keeper of the Great-Seale, Lord Treaſurer, Lord Privy Seale, Earle Marſhall, Lord Admiral, Warden of the Cinque-ports, Chancelour of the Exche<g ref="char:EOLhyphen"/>quor, Maſter of the Wards, Secretaries of State, two Cheife Juſtices, and the Cheife Baron, be nominated by both Hou<g ref="char:EOLhyphen"/>ſes of Parliament.</p>
+               <p>
+                  <note place="margin">The like for Ireland.</note>The like for the kingdome of Ireland, as touching the Deputy, or cheife Governour, or other Governour there, and the Preſidents of the ſeverall Provinces, the Chancel<g ref="char:EOLhyphen"/>lor or L. Keeper, L. Treaſurer, &amp;c.</p>
+               <p>
+                  <note place="margin">The Educating of the Kings children.</note>That he or they unto whom the Government of the kings children ſhall be committed, ſhall bee approved of by both Houſes of Parliament, and their ſervants likewiſe.</p>
+               <p>
+                  <note place="margin">For marrying them.</note>That no marriage ſhall be concluded, or treated, for any of the Kings children, with any forraigne Prince, or other perſon whatſoever, abroad or at home, without conſent of the Parliament.</p>
+               <p>
+                  <note place="margin">For the Militia</note>That the Militia be ſetled, and the Subjects of the King<g ref="char:EOLhyphen"/>domes of England and Ireland, be appointed to be Armed Trayned and Diſciplined, in ſuch manner as both Houſes of Parliament ſhall thinke fit.</p>
+               <p>
+                  <note place="margin">For the Admi<g ref="char:EOLhyphen"/>ralty and Na<g ref="char:EOLhyphen"/>vy.</note>That the Admiralty and force at Sea, and power of ray<g ref="char:EOLhyphen"/>ſing Money for the maintenance of thoſe Forces, and of the Navy, bee ſetled in the two Houſes of Parliament.</p>
+               <p>
+                  <note place="margin">For the Forts and Caſtles.</note>That the Forts and Caſtles of the Kingdome ſhall be put under the Command and Cuſtody of ſuch Perſons as ſhall be approved of by both Houſes of Parliament.</p>
+               <p>
+                  <note place="margin">For the votes of Peeres to be made hereafter</note>That no Peere made hereafter, ſhall ſit or vote in Parlia<g ref="char:EOLhyphen"/>ment, unleſſe they bee admitted thereto by both Houſes of Parliament.</p>
+               <p>
+                  <note place="margin">For concluding of Peace &amp; war</note>That the Concluding of Peace and Warre with forraigne Princes and States bee with the advice of the Parliaments of both Kingdomes.<note place="margin">A quere upon the Parliaments Propoſitions.</note>
+               </p>
+               <p>Now the Queſtion is, Whether (theſe Propoſitions
+<pb n="7" facs="tcp:114186:7"/>
+conſidered) The two Houſes of Parliament doe truely take up Armes and continue them, for the defence of our Religi<g ref="char:EOLhyphen"/>on, Lawes and Liberties, againſt Popery and Tyranny, as is alleaged by them; or not rather for the overthrowe of the eſtabliſhed Government of Church and State, and of Re<g ref="char:EOLhyphen"/>g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llity and Monarchy; and for ſetling the cheife Power in the two Houſes of Parliament as is alleaged by his Majeſty.</p>
+               <p>There are I know other Propoſitions concerning Delin<g ref="char:EOLhyphen"/>quents, but ſubordinate to thoſe that tend to the alteration of Government.<note place="margin">Their Propoſi<g ref="char:EOLhyphen"/>tions concer<g ref="char:EOLhyphen"/>ning Delin<g ref="char:EOLhyphen"/>quents.</note> Their Delinquents being only ſuch as are enemies to their Cauſe, and have from time to time oppo<g ref="char:EOLhyphen"/>ſed their proceedings againſt the King, and againſt the pre<g ref="char:EOLhyphen"/>ſent Government, as appeares plainly by their Ordinances concerning Delinquents, and by the Catalogue of Delin<g ref="char:EOLhyphen"/>quents delivered in at the Treaties, and inſerted amongſt their Propoſitions: And they proſecute them not in a Ju<g ref="char:EOLhyphen"/>diciary and Parliamentary way, as Legall offenders; but in a Military and Hoſtile way, as an adverſe party, Oppoſite to them and their Deſigne.</p>
+               <p>Now, whether theſe Gentlemen be Delinquents or no, ſhall be ſhewed afterward, upon ſtating the warre on both ſides; Delinquency being not where the Cauſe is juſt, and the warre lawfull; but where the Cauſe and the warre are unjuſt, and unlawfull, that is the Delinquent Party.</p>
+               <p>Their Propoſitions concerning Papiſts I have omitted,<note place="margin">Their Propoſi<g ref="char:EOLhyphen"/>tions concer<g ref="char:EOLhyphen"/>ning Papiſts.</note> becauſe the King aſſented to them. (And how did they take up Armes for the defence of our Religion againſt Popery?)</p>
+               <p>Concerning our Liberties they propoſed nothing,<note place="margin">No Propoſiti<g ref="char:EOLhyphen"/>on concerning our Liberty.</note> all the Grievances ſet forth by the Lords in their Petition preſen<g ref="char:EOLhyphen"/>ted to his Majeſty at Yorke, being remedied by ſeverall Acts at the beginning of this Parliament. And how then did they take up Armes for defence of our Liberties, againſt Tyranny?</p>
+               <p>Alſo there is nothing propoſed concerning our Lawes;
+<pb n="8" facs="tcp:114186:8"/>
+their whole proceedings being againſt Lawe;<note place="margin">An obſervation of the Kings Commiſſioners at Uxbridge.</note> eyther a<g ref="char:EOLhyphen"/>gainſt the twenty fift of <hi>Edward</hi> the third, in point of Treaſon againſt the King; Or againſt <hi>Magna Charta,</hi> and the Petition of Right, in point of oppreſſion of the Sub<g ref="char:EOLhyphen"/>ject. As alſo by their Orders, The two Houſes and each Houſe, and their Committees ſtop the proceedings of the Courts of Juſtice, in Suites of Lawe, betweene Man and Man.</p>
+               <p>And ſo the Kings Commiſſioners at the Treaty at Ux<g ref="char:EOLhyphen"/>bridge obſerved, That after a warre of neere foure yeeres for which the defence of the Proteſtant Religion, The li<g ref="char:EOLhyphen"/>berty and property of the Subject, and the priviledges of Parliament, were made the cauſe and ground, in a Treaty of twenty daies, nor indeede in the whole Propoſitions, upon which the Treaty ſhould be, there hath been nothing offered to be Treated concerning the breach of any Law, or of the Liberty and Property of the Subject, or Priviledge of Parliament; but only Propoſitions for the altering of a Government, eſtabliſhed by Lawe, and for the make<g ref="char:EOLhyphen"/>ing new Lawes, by which all the old are, or may bee can<g ref="char:EOLhyphen"/>celled.</p>
+            </div>
+            <div type="part">
+               <head>The Kings Propoſitions.</head>
+               <note place="margin">The Kings Pro<g ref="char:EOLunhyphen"/>poſitions.</note>
+               <p>
+                  <note place="margin">For his Reve<g ref="char:EOLhyphen"/>nues Magazine &amp;c.</note>THAT his Majeſties owne Revenue, Magazine, Townes, Forts, and Ships, which have beene taken or kept from him, by force, bee forthwith reſtored unto him.</p>
+               <p>
+                  <note place="margin">
+                     <p>For maintay<g ref="char:EOLhyphen"/>ning the Lawes of the Land, &amp; the kings Le<g ref="char:EOLhyphen"/>gall Power &amp; Right.</p>
+                     <p>For the Liber<g ref="char:EOLhyphen"/>ty of the Sub<g ref="char:EOLhyphen"/>ject againſt il<g ref="char:EOLhyphen"/>legall Power.</p>
+                  </note>That whatſoever hath beene done or publiſhed contrary to the knowne Lawes of the Land, or derogatorie to his Majeſties Legall and known Power and Right; be renoun<g ref="char:EOLhyphen"/>ced and recalled, that no ſeede may remaine, for the like to ſpring out for the future.</p>
+               <p>That whatſoever illegall power hath beene claimed and exerciſed over his Subjects; as impriſoning their perſons
+<pb n="9" facs="tcp:114186:8"/>
+without Lawe; ſtopping their <hi>Habeas corpus,</hi> and impo<g ref="char:EOLhyphen"/>ſing upon their eſtates without Act of Parliament, eyther by both or eyther Houſe, or any Committee of both or ey<g ref="char:EOLhyphen"/>ther, or by any perſons appointed by any of them, bee diſ<g ref="char:EOLhyphen"/>claymed, and all ſuch perſons ſo Committed forthwith diſcharged.</p>
+               <p>That as his Majeſty will readily conſent, having done ſo heretofore, to the execution of all Lawes already made,<note place="margin">Againſt Pope<g ref="char:EOLhyphen"/>ry.</note> and to any good Act to be made for the ſuppreſſing of Po<g ref="char:EOLhyphen"/>pery, and for the firme ſetling the Proteſtant Religion by Lawe eſtabliſhed; So he deſires that a good Bill may bee framed, for the better preferring of the booke of Com<g ref="char:EOLhyphen"/>mon-Prayer, from the ſcorne and violence of Browniſts,<note place="margin">For the booke of Common Prayer.</note> Anabaptiſts and other Sectaries, with ſuch clauſes for the eaſe of tender Conſciences, as his Majeſty hath for<g ref="char:EOLhyphen"/>merly offered.</p>
+               <p>That all ſuch perſons as upon the Treaty ſhall be excep<g ref="char:EOLhyphen"/>ted out of rhe generall Pardon, ſhall be tryed <hi>per Pares,</hi>
+                  <note place="margin">For the tryall of Delinquents</note> ac<g ref="char:EOLhyphen"/>cording to the uſuall courſe and known Lawes of the Land, and that it be left to that, eyther to acquit or con<g ref="char:EOLhyphen"/>demne them.</p>
+               <p>Now the queſtion is,<note place="margin">A quere upon the Kings Pro<g ref="char:EOLhyphen"/>poſitions.</note> whether (theſe Propoſitions con<g ref="char:EOLhyphen"/>ſidered) the King doth truely take up Armes, and con<g ref="char:EOLhyphen"/>tinue them, to maintaine our Religion, Lawes, and Liber<g ref="char:EOLhyphen"/>ties; againſt Popery and Tyranny, as is aleaged by his Ma<g ref="char:EOLhyphen"/>jeſty, or to overthrow them, as is alleaged by the two hou<g ref="char:EOLhyphen"/>ſes of Parliament.</p>
+               <p>But the Lords and Commons pleade for themſelves fi<g ref="char:EOLhyphen"/>nally. That they tooke up Armes, and continue them,<note place="margin">The final Plea of the Lords &amp; Commons re<g ref="char:EOLhyphen"/>torted:</note> to proſecute their Propoſitions, only in Order to the defence of our Religion, Lawes and Liberties. Or rather they tooke Armes, and continue them, for the defence of our Religion, Lawes and Liberties only, in, Grder to the proſecution of theſe their Propoſitions, and of their Deſigne; Seeing they will not acquieſce in his Majeſties, which are directly and apparently for the eſtabliſhing of our Religion, Lawes and
+<pb n="10" facs="tcp:114186:9"/>
+Liberties, againſt Popery and Tyranny, but offer and preſſe their owne Propoſitions, to the overthrow of our Religi<g ref="char:EOLhyphen"/>on by Lawe eſtabliſhed, and of the eſtabliſhed Govern<g ref="char:EOLhyphen"/>ment of Church and State.</p>
+               <p>Beſides, before Armes were taken up, his Majeſty was pleaſed to recede from his Right touching Forts,<note place="margin">The King re<g ref="char:EOLhyphen"/>cedes from his Right, &amp; from the<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> rigour of his Propoſiti<g ref="char:EOLhyphen"/>ons.</note> and Ca<g ref="char:EOLhyphen"/>ſtles, and the Militia; and he condiſcended to them in di<g ref="char:EOLhyphen"/>vers other particulars, touching their nineteene Propoſiti<g ref="char:EOLhyphen"/>tions; thereby (if poſſible) to have prevented the Warre amongſt us. And after that Armes were taken up, and the kingdome embroyled in Warre (to prevent the further miſ<g ref="char:EOLhyphen"/>chiefes thereof) his Majeſty was pleaſed to recede from the rigour of his Propoſitions; and at the Treaty at Uxbridge, by his Commiſſioners, he would have complyed in ſeverall particulars touching the Biſhops and the Deans and Chap<g ref="char:EOLhyphen"/>ters: and he would have truſted them with the Militia for two yeeres, and afterward by a Meſſage from Oxford, he graciouſly condeſcended:</p>
+               <p n="1">1. That all who are Proteſtants ſhould have the free e<g ref="char:EOLhyphen"/>xerciſe of Religion according to their owne way.</p>
+               <p n="2">
+                  <note place="margin">The Kings Meſſage from Ozford.</note>2. That the two houſes of Parliament ſhould have the Militia for 7 yeeres.</p>
+               <p n="3">3 That they, <hi>pro hac vice,</hi> ſhould chuſe the Lord Admi<g ref="char:EOLhyphen"/>rall, and Officers of State, and the Judges.</p>
+               <p n="4">4. That the buſineſſe of Ireland ſhould be referred whol<g ref="char:EOLhyphen"/>ly to them.</p>
+               <p n="5">5. That hee would joyne with them in an Act for the payment of the publique debts.</p>
+               <p n="6">6. That he would paſſe a Generall Act of Oblivion.</p>
+               <p>I ſay the King was pleaſed, in favour to the Parliament, and the Subject, to recede from the Rigour of his Propoſiti<g ref="char:EOLhyphen"/>ons: But the two Houſes would never abate one jot of their Propoſitions and demands,<note place="margin">They will not recede one jot from the rigor of their Propo<g ref="char:EOLhyphen"/>ſitions.</note> in favour of his Majeſty or Monarchy; but rather have ſcrued them up from time to time, and heightned them againſt both. Nor will they now be ſatisfied with the eſtabliſhing of our Religion, Lawes,
+<pb n="11" facs="tcp:114186:9"/>
+and Liberties, unleſſe it bee by way of their Propoſitions thus heightned: And ſo they encroach upon the Crowne daily, more and more, untill at length they inveſt themſelves in the full Power and Rights of the King and of the Crowne.</p>
+               <p>And at firſt they pretended the defence of our Religion,<note place="margin">The defence of our Religion, L<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wes and Li<g ref="char:EOLhyphen"/>berties preten<g ref="char:EOLhyphen"/>ded, and why</note> Lawes and Liberties, in policy only (that they might more effectually prevaile with the people, and more colourably ſeize the Militia, and rayſe an Army) for by their Armes, they doe not only, not defend our Religion,<note place="margin">P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>teſtatio con<g ref="char:EOLhyphen"/>traria facto.</note> Lawes and Li<g ref="char:EOLhyphen"/>berties, but (taking upon them Soveraigne authority over our Lawes, and an Arbitrary Power over our Perſons and Eſtates) they aboliſh our Religion, by Lawe eſtabliſhed,<note place="margin">By their Arms they doe not only not de<g ref="char:EOLhyphen"/>fend our Reli<g ref="char:EOLhyphen"/>gion, Lawes &amp; Liberties, but invade and vi<g ref="char:EOLhyphen"/>olate them.</note> in Doctrine, Worſhip, Diſcipline and Government (to comply with the Independents, Browniſts, Anabaptiſts, and other Sectaries, to make them of their party to carry on their Deſigne againſt Munarchy) And they trample un<g ref="char:EOLhyphen"/>der foote our Lawes, and invade and violate our Liberties, in proſecution of their Deſigne, againſt his Majeſty, and in him, againſt Monarchy: O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dayning, contrary to the Peti<g ref="char:EOLhyphen"/>tion of Right, That we beare Armes, billet Souldiers, pay Monies and take Oathes, not impoſed by Act of Parlia<g ref="char:EOLhyphen"/>ment; And upon our refuſall, Sequeſtring and Impriſo<g ref="char:EOLhyphen"/>ning us, without more adoe; and proceeding alſo againſt ſome by Martiall-Lawe, and Condemning and Executing them: Whereas by <hi>Magna Charta,</hi> no man ſhould bee diſſeized of his Eſtate, nor Impriſoned, nor ſuffer, but upon tryall by his Peeres.</p>
+               <p>But who would haue beleeved, that our Religion, Liber<g ref="char:EOLhyphen"/>ty and Lawes, which for ſo long a time have endured Op<g ref="char:EOLhyphen"/>poſition and Aſſaults from forreigne Power, envying our happineſſe, would have beene Oppoſed, Oppreſſed, and Trod under foote by the Crafts and Cruelties of our owne Natives and Country-men? As is declared by both King<g ref="char:EOLhyphen"/>domes joyned in Armes for purſuance of the Covenant <hi>Janu.</hi> 30. 1643.</p>
+               <p>
+                  <pb n="12" facs="tcp:114186:10"/>
+                  <note place="margin">
+                     <p>This a moſt dangerous pre<g ref="char:EOLhyphen"/>cedent. The true ſtate of the war, on the Parlia<g ref="char:EOLhyphen"/>ments ſide.</p>
+                     <p>There is not Law warrant<g ref="char:EOLhyphen"/>ing the Lords &amp; Commons to take up Armes.</p>
+                     <p>
+                        <hi>Rom.</hi> 3.8.</p>
+                     <p>Their preſent War is, Firſt unneceſſary as pretending the defence of our Religion, laws and Liberties againſt Popery and Tyranny. Secondly, un<g ref="char:EOLhyphen"/>juſt as conten<g ref="char:EOLhyphen"/>ding for the King &amp; crown. Thirdly, wic<g ref="char:EOLhyphen"/>ked, as inten<g ref="char:EOLhyphen"/>ding the over<g ref="char:EOLhyphen"/>throwe of the Conſtitution &amp; Government of the kingdom and intimating the deſtruction of the King &amp; his Poſteritie in order there<g ref="char:EOLhyphen"/>to.</p>
+                     <p>No priviledge in Caſe of trea<g ref="char:EOLunhyphen"/>ſon.</p>
+                     <p>Having got the power of the Sword, they may rule and over-rule the king &amp; people, &amp; invade his other Rights and their Liberties at pleaſure.</p>
+                  </note>And Oh! the unſtable and miſerable Condition of the Engliſh Nation, if the two Houſes of Parliament or a prevayling factious Party there, may at pleaſure alter our Eſtabliſhed Religion, Lawes, Liberty, Property and Government.</p>
+               <p>And ſo (the Premiſes conſidered) the true ſtate of the Queſtion concerning the Warre on the Parliaments ſide, is clearely this. Not whether the Lords and Commons may ſeize and deteine his Majeſties Forts and Ships; Nor whe<g ref="char:EOLhyphen"/>ther they may ſettle and diſpoſe the Militia and the Navy, and rayſe an Army for the defence of our Religion, Lawes and Liberties (though to doe any of theſe without the Roy<g ref="char:EOLhyphen"/>all Authority, upon any Pretences, or to any Intentions whatſoever, whether to expulſe Strangers, to remove Counſellors, or againſt any Statute, &amp;c. bee to levy warre againſt the King? becauſe they take upon them Royall au<g ref="char:EOLhyphen"/>thority, which is againſt the King, <hi>Cooke</hi> 3. <hi>part Inſtitut. Cap. de high-Treaſon.</hi> And I know no difference between the Lords and Commons in Parliament (in this Caſe) and others out of Parliament, all being in the condition of ſub<g ref="char:EOLhyphen"/>jects to his Majeſty, and there being no priviledge of Parli<g ref="char:EOLhyphen"/>ament in Caſe of Treaſon: But whether they may put themſelves into the ſtrength of the Kingdome, and rayſe forces, and employ them to the intents and purpoſes ex<g ref="char:EOLhyphen"/>preſſed in their Propoſitions, <hi>viz.</hi> For taking from the King and from the Crowne the Government of the Church by Arch-biſhops, Biſhops, &amp;c. and the Govern<g ref="char:EOLhyphen"/>ment of the State likewiſe, whileſt they would nominate the great Officers and the Judges, and would diſpoſe the Militia, and the Navy, and the Forts and Caſtles, &amp;c. And for ſetling the chiefe power and Government both of Church and State, at preſent in themſelves, and in the two Houſes of Parliament hereafter; yea for Subjects (and ſuch are the Lords and Commons in the preſent Parliament aſ<g ref="char:EOLhyphen"/>ſembled) to put themſelves into ſuch a ſtrength as the king ſhall not be able to reſiſt them, and to force and compell
+<pb n="13" facs="tcp:114186:10"/>
+the King to governe otherwiſe then according to his owne Royall authority and direction is manifeſt Rebellion,<note place="margin">It is manifeſt Rebellion.</note> ac<g ref="char:EOLhyphen"/>cording to the opinion of the Judges deliveeed at the ar<g ref="char:EOLhyphen"/>raignement of the Earle of Eſſex.</p>
+               <p>How much more in our preſent Caſe,<note place="margin">Their Rebelli<g ref="char:EOLhyphen"/>on aggravated.</note> when they would take away the power and governement from the King and Crowne?</p>
+               <p>Againe, The premiſes conſidered,<note place="margin">The true ſtate of the warre on the Kings ſide. The warre on the Kings ſide is vindicatory and defenſorie, in reſpect of the Kings po<g ref="char:EOLhyphen"/>wer and righ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and of the Lawes of the Land, and of the Liberty and property of the Subject.</note> The true ſtate of the queſtion concerning the Warre on the Kings ſide is cleerly this. Not whether he may raiſe an Army againſt the Parli<g ref="char:EOLhyphen"/>ament (though if he ſhould, I know no warrant for reſi<g ref="char:EOLhyphen"/>ſting him,) But whether the King may not raiſe an Army, and fight againſt the Parliament, for the reaſons expreſſed in his Propoſitions. <hi>viz.</hi>
+               </p>
+               <p>For the recovery of his Revenue, Forts and Caſtles &amp;c.</p>
+               <p>For vindicating the Lawes of the Land, and his Legall power and Rights &amp;c.</p>
+               <p>For Redeeming the Subject from illegall-power, and from manifold oppreſſion.</p>
+               <p>For preſerving the eſtabliſhed Liturgy &amp;c.</p>
+               <p>For bringing Delinquents to a Legall-Tryall. The Lords and Commons in Parliament, as well as other his Subjects, being lyable to his Majeſties diſpleaſure, whenſoever they keepe not themſelves within the circle of the Law, and Cu<g ref="char:EOLhyphen"/>ſtome of Parliament. <hi>Cooke lib. of Juriſdiction of Courts.</hi>
+                  <note place="margin">Note.</note> 
+                  <hi>Cap. High Court of Parliament.</hi> And themſelves have de<g ref="char:EOLhyphen"/>clared, That all forcible practiſes,<note place="margin">Malignancie, Delinquencie, and Covenant<g ref="char:EOLunhyphen"/>ing, &amp;c. The true ſtate of the queſtion concerning the depoſing of the King.</note> much more ſuch Rebelli<g ref="char:EOLhyphen"/>ous proceedings againſt the King, are inconſiſtent with the Nature of the Councell, being the Body whereof his Ma<g ref="char:EOLhyphen"/>jeſty is the Head. <hi>Husb. Collect. of Remonſt. pag.</hi> 100. And from thoſe expreſſe ends in the Propoſitions on both ſides muſt we judge, as of the warre, ſo of the incidents thereto; Malignancy, Delinquency, Covenanting, &amp;c. And of the conſequents thereof, the blood-ſhed and ſpoyle in England, and the loſſe of Ireland, and the blood and treaſon to be ex<g ref="char:EOLhyphen"/>pended in the recovery thereof, and the depoſing of the
+<pb n="14" facs="tcp:114186:11"/>
+king (though no proteſtant Parliament ever did ſo, and Proteſtants generally abominate the doctrine of Depoſing of Kings.<note place="margin">
+                     <hi>Dan.</hi> 2.2<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Dan.</hi> 4.17.25.32. <hi>Rom.</hi> 13.14 4.</note> The Obſervator himſelfe ſayes, That never was any King depoſed in a free Parliament:) But whether the Parliament may depoſe the King, becauſe he hath taken up Armes and ſought againſt them.</p>
+               <p>For recovery of his Revenues, &amp;c.</p>
+               <p>For vindicating the Lawes of the Land, and his Legall power and Rights.</p>
+               <p>For Redeeming the Subject from illegall power, &amp;c.</p>
+               <p>And becauſe he will not aſſent to their Propoſitions, and renounce his Cauſe, and ruine his friends, and betray the Crown,<note place="margin">They cannot in juſtice or in gratitude de<g ref="char:EOLhyphen"/>poſe the King.</note> and depoſe and degrade himſelfe and his Poſterity.</p>
+               <p>Alſo whether they may depoſe him, after hee hath by ſe<g ref="char:EOLhyphen"/>verall Acts of parliament aſſerted our Liberties, and offered to paſſe whatſoever is deſired againſt papiſts. And after his gracious condiſcentions touching the Forts and Caſtles and the Militia,<note place="margin">The depriving of the King, a conſequent in every Rebelli<g ref="char:EOLhyphen"/>on.</note> for our ſecurity; and after his other condiſcen<g ref="char:EOLhyphen"/>tions declared in his anſwere to the ninteene Propoſitions. And after his gracious Meſſages from Nottingham and Ox<g ref="char:EOLhyphen"/>ford, both that upon the Treaty there, and the other about a yeere ſince, which ſee before.</p>
+               <p>
+                  <note place="margin">
+                     <p>1 <hi>Sam.</hi> 26.9. How wee muſt judge of their after procee<g ref="char:EOLhyphen"/>dings with his Majeſty.</p>
+                     <p>The true ſtate of the queſtion on the Parlia<g ref="char:EOLhyphen"/>ments ſide, in referrence to the Liberty of the Subject in generall, and more particu<g ref="char:EOLhyphen"/>larly of the Royall Party.</p>
+                  </note>But this is an ordinary conſequent in every Rebellion, The Rebels not ſuffering the king to live or Reigne, which might puniſh or take revenge of his Treaſon, as is evident in <hi>Ed.</hi> and <hi>Ki.</hi> both the ſecond. And this alſo the Judges de<g ref="char:EOLhyphen"/>livered for matter of Law, at the arraignement aforeſaid,</p>
+               <p>And in this caſe muſt we ground our judgement of their after proceedings with his M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jeſty, on the Sentence of the Lawe, and on the Evidences of Hiſtories, and not on their Declarations, alterable at pleaſure, as themſelves averre.</p>
+               <p>Laſtly (the promiſes conſidered) The true ſtate of the Queſtion on the Parliaments ſide, in referrence to the Li<g ref="char:EOLhyphen"/>berty of the Subject in generall, and more particularly to the Royall party, is cleerely this; Not whether the Lords and Commons aſſembled in Parliament, have power over
+<pb n="15" facs="tcp:114186:11"/>
+our Lawes, Lives, Liberties and eſtates, in Caſe of defence, as aforeſaid; But whether they have power to compell us to ſerve with our perſons and eſtates in the preſent warre againſt his Majeſty? and in Caſe of refuſall, whether they may proceede againſt us, and whether each houſe hath po<g ref="char:EOLhyphen"/>wer in this Caſe to ſequeſter and impriſon us.</p>
+               <p>As alſo his Majeſties taking up Armes for the reaſons a<g ref="char:EOLhyphen"/>bove mentioned, and requiring us to aſſiſt him in this warre, whether they may queſtion and puniſh us for ſuch aſſiſt<g ref="char:EOLhyphen"/>ance;<note place="margin">Theſe legall Oathes obliege us rather then our late vowes and covenants.</note> ſeeing we are bound by the Oathes of Supremacie and Allegiance, to aſſiſt <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd defend all Juriſdictions, Pre<g ref="char:EOLhyphen"/>heminencies, and Authorities belonging to the King, his Heires and Succeſſours, or annexed to the Imperiall Crowne.</p>
+               <p>And for ſuch Deede and Service, we are utterly diſchar<g ref="char:EOLhyphen"/>ged of any vexation, trouble or loſſe. 11. <hi>Hen.</hi> 7. <hi>cap.</hi> 10.</p>
+               <p>And whereas the Parliament in their anſweres hereto grant it to be dutie of allegiance,<note place="margin">Ob.</note> to ſerve the King in warre for the defence of him and of the Land, but not in warres a<g ref="char:EOLhyphen"/>gainſt the Land or the Parliament, the Repreſentative bo<g ref="char:EOLhyphen"/>dy thereof.</p>
+               <p>It may be replied and truely;<note place="margin">Sol.</note> That the greater part of the Lords and Commons, and conſequently of the people of the Land, taken collectively, and in Parliament joyned with the King before the Tumults; as did the greater part of the people diffuſively take part with his Majeſty before they called in our brethren of Scotland,<note place="margin">Upon <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> what termes they cal<g ref="char:EOLunhyphen"/>led in the Scots</note> whom they invited by ſeverall Meſſages, Declarations, Proteſtations, Atteſta<g ref="char:EOLhyphen"/>tions, Aſſeverations and Oathes,<note place="margin">
+                     <p>They profeſſe declarations al<g ref="char:EOLunhyphen"/>terable at plea<g ref="char:EOLunhyphen"/>ſure.</p>
+                     <p>See the Scots papers printed at Edinbo<g ref="char:EOLhyphen"/>rough <hi>June</hi> 1646.</p>
+                  </note> in teſtimony of their un<g ref="char:EOLhyphen"/>ſhaken, Reſolved and conſtant Loyalty to his Majeſty and to his Poſterity: But now they have Notoriouſly and profeſſedly revolted from both: and when the Scots-Com<g ref="char:EOLhyphen"/>misſioners urged thoſe Declarations and atteſtations a<g ref="char:EOLhyphen"/>gainſt them and their proceedings, they anſwered that Re<g ref="char:EOLhyphen"/>turnes ſhould not be made againſt England, upon their for<g ref="char:EOLhyphen"/>mer Declarations, as if they were obligations, whereas they were alterable at pleaſure.</p>
+               <p>
+                  <pb n="16" facs="tcp:114186:12"/>And now, that by the helpe of our Brethren, they are Conquerors, and abſolute Maſters of all; ſee how they fall againe upon their deſigne againſt his Majeſty, and a<g ref="char:EOLhyphen"/>gainſt Monarchy: and drive it on with all might and main, and by all waies and meanes now, as at the beginning; and what was Treaſon before is Rebellion now.</p>
+            </div>
+            <div type="part">
+               <head>Their Proceedings after the Warre, the ſame as before the Warre.</head>
+               <p n="1">
+                  <note place="margin">They ſtickle a<g ref="char:EOLunhyphen"/>bout the Ele<g ref="char:EOLhyphen"/>ctions.</note>1. Then they ſtickled for ſuch men to bee elected into the Houſe of Commons, as were of their opinions and in<g ref="char:EOLhyphen"/>clinations: and ſo they doe now.</p>
+               <p n="2">
+                  <note place="margin">Bills againſt Biſhops, &amp; for the Militia.</note>2. The Bills againſt Biſhops, and for the Militia, were in the firſt place inſiſted on then: and ſo they are now.</p>
+               <p n="3">3. Seditious and Trayterous pamphlets were publiſhed then,<note place="margin">Trayterous Pamphlets.</note> as now, by Mr. <hi>Lilburne,</hi> by Mr. <hi>Chaloner</hi> and his vindicator, by the authour of the booke called The unhappy game betweene the Scots and Engliſh, and by others, pro<g ref="char:EOLhyphen"/>feſſed enemies to his Majeſty and Monarchy.</p>
+               <p n="4">
+                  <note place="margin">Tumultuary Sectaries.</note>4. Tumultuous Sectaries were rayſed and countenanced to force the votes of the Members of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment then:<note place="margin">An Indepen<g ref="char:EOLhyphen"/>dent Army.</note> and an Indepentent Army is rayſed and con<g ref="char:EOLhyphen"/>tinued to force the Kings vote now.</p>
+               <p n="5">
+                  <note place="margin">Of the Forts &amp; Caſtles.</note>5. They ſeized on the Forts and Caſtles, and the Militia, and the Navy then: and they detayne and diſpoſe them now, as then; for ſecuring, not the kingdome, but them<g ref="char:EOLhyphen"/>ſelves and their Deſigne.<note place="margin">Of depoſing the King. S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e the premi<g ref="char:EOLhyphen"/>ſed opinion of the Ju<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ges con<g ref="char:EOLunhyphen"/>cerning the de<g ref="char:EOLhyphen"/>poſing of kings and the Hiſto<g ref="char:EOLhyphen"/>ries of <hi>Ed.</hi> and <hi>Ric.</hi> both the 2</note>
+               </p>
+               <p n="6">6. Then Mr. <hi>Martin</hi> ſaid openly, That the Kings Office was forfeitable, and Sir <hi>Henry Ludlow,</hi> That his Majeſty was not worthy to be King of England, and the two hou<g ref="char:EOLhyphen"/>ſes Declared, That if they followed the higheſt precedents of other Parliaments, they ſhould not want modeſty or du<g ref="char:EOLhyphen"/>ty: and now they tell us in the anſwere to the Scots pa<g ref="char:EOLhyphen"/>pers, That the King is not in a condition to execute the
+<pb n="17" facs="tcp:114186:12"/>
+duty of his place, or to bee left to goe or reſide where and when he pleaſeth.</p>
+               <p>And here ſticks the Deſigne at preſent,<note place="margin">Where the De<g ref="char:EOLhyphen"/>ſigne ſticks. See the Scots papers, &amp; the Lord <hi>Low<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dns</hi> three ſeverall ſpeeches of diſ<g ref="char:EOLhyphen"/>poſing of the Kings perſon.</note> the Scots diſſen<g ref="char:EOLhyphen"/>ting and interpoſing and preſſing for his Majeſties returne to his Parliament, with freedome, honour and ſafety.</p>
+               <p>But whatſoever they ſhall attempt and act, againſt or upon his Majeſty hereafter, 'twill be (not as is pretended) a due guerdon for his warre againſt the Parliament (for he hath contracted no guilt thereby) but as an effect of their conqueſt, and an accompliſhment of their Deſigne, agita<g ref="char:EOLhyphen"/>ted before,<note place="margin">Their after pro<g ref="char:EOLunhyphen"/>ceedings a<g ref="char:EOLhyphen"/>gainſt the King not his due guer<g ref="char:EOLunhyphen"/>don, but in e<g ref="char:EOLhyphen"/>fect of their Conqueſt, and an accompliſh<g ref="char:EOLhyphen"/>ment of their pretended De<g ref="char:EOLhyphen"/>ſigne.</note> and purſued and conſummate by the preſent warre. And whatſoever their after proceedings bee, his Majeſty will ſtill be Innocent: And whatſoever their pre<g ref="char:EOLhyphen"/>tences are, They will be Rebells ſtill.</p>
+               <p n="7">(7) They Declared againſt the Kings Negative Oath, in Law-making then: and now they give Lawes with<g ref="char:EOLhyphen"/>out him.</p>
+               <p n="8">(8) Then they tendred to his Majeſty Peopoſitions, to take away the chiefe power of Governing from the King, and to ſettle it in the two Houſes of parliament: And at this day they inſiſt on the ſame,<note place="margin">Of the Kings negative Vote.</note> with full reſolution to o<g ref="char:EOLhyphen"/>verthrowe the Regall, and to eſtabliſh a Parliamentary Government. And this is the utmoſt of their Deſigne,<note place="margin">Their propoſi<g ref="char:EOLhyphen"/>tions for the chiefe power in Governing.</note> and the ultimate end of their Warre, and it concernes not the King only, but the Imperiall Crowne alſo.</p>
+               <p>I know theſe Propoſitions are obtruded upon the King and upon the people at preſent,<note place="margin">The utmoſt of their Deſigne and the ulti<g ref="char:EOLhyphen"/>mate end of the Warre.</note> as the only meanes of our preſervation and ſafety againſt the common enemies of the Kingdome.</p>
+               <p>But I have ſhewed how ſome of the Propoſitions are uſeleſſe in this kinde, and how the others are at this time needleſſe in reſpect of the kingdome,<note place="margin">Of theſe Pro<g ref="char:EOLhyphen"/>poſitions, ſome are Civill, others Military. They take from the King the diſpoſall of all Pla<g ref="char:EOLhyphen"/>ces of Honour, and Judicature and Power, and conſequently all depend ney; in theſe Reſpects, forreigners may come in to reſcue the King and Crowne, and not to in<g ref="char:EOLhyphen"/>vade the Kingdome.</note> having no profeſſed
+<pb n="18" facs="tcp:114186:13"/>
+enemy at all, though by their diſloyall, illegall, violent courſes they have created to themſelves many Enemies, both at home and abroad, who alſo may bring in forreigne forces againſt them (if wee agree not ſuddenly amongſt our ſelves) and yet not to invade the kingdome in a hoſtile manner: the like of late having beene done by others once and againe.</p>
+               <p>Beſides, they demand theſe Powers not for a time only, but for ever;<note place="margin">See the ſeveral papers of the Scots Commiſ<g ref="char:EOLhyphen"/>ſioners concer<g ref="char:EOLhyphen"/>ning the Propo<g ref="char:EOLunhyphen"/>ſitions of Peace.</note> and ſo not as a remedy againſt preſent daun<g ref="char:EOLhyphen"/>ger, but as a foundation of another Government: Un<g ref="char:EOLhyphen"/>der the pretence of providing for the publique ſafety, endea<g ref="char:EOLhyphen"/>voring to overthrow Monarchy, and to ſet up and eſtabliſh Ariſtocracy and Democracy. And as by the Act of conti<g ref="char:EOLhyphen"/>nuation they may ſit for ever, ſo they intend doubtleſſe by their Propoſitions to Governe for ever.</p>
+               <p>And the upſhot of all is, Who ſhall Governe? whe<g ref="char:EOLhyphen"/>ther the King, or the Lords and Commons aſſembled in Parliament.</p>
+               <p n="9">(9.) Laſtly, before they tooke up Armes, they claymed an abſolute power over our perſons and eſtates, in Order to their Cauſe,<note place="margin">Their abſolute power over the people in order to the preſent warre.</note> and to the preſent warre: and to this day they exerciſe it accordingly, diſpoſing our perſons, and im<g ref="char:EOLhyphen"/>poſing on our Eſtates at pleaſure. And this their arbitrary and boundleſſe power, our boundleſſe and unſufferable ſla<g ref="char:EOLhyphen"/>very is like to laſt for ever, as their Cauſe and the Warre are like to bee everlaſting;<note place="margin">It is like to bee everlaſting. See Mr. <hi>Mar<g ref="char:EOLhyphen"/>tins</hi> ſpeech of the Royall branches.</note> not only againſt King <hi>Charles,</hi> but alſo againſt prince <hi>Charles,</hi> and againſt his Heires and Succeſſours likewiſe, and againſt the whole ſucceſſion from time to time, as long as any of the Royall ſeede ſhall re<g ref="char:EOLhyphen"/>maine; and ſo in maintenance of their Deſigne againſt Monarchy, the people will be engaged in Rebellion, and embroyled in Warre, from ſucceſſion to ſucceſſion, and from Generation to Generation, unleſſe ſome ſpeedy courſe be taken for compoſing the differences,<note place="margin">Our Rebellion warre &amp; miſery endleſſe.</note> and ending the warre amongſt us; which ſeeing his Majeſty cannot effect, by the juſtneſſe of his Propoſitions, nor by the reaſonable<g ref="char:EOLhyphen"/>neſſe
+<pb n="19" facs="tcp:114186:13"/>
+of his Meſſages, nor by the graciouſneſſe of his Con<g ref="char:EOLhyphen"/>diſcentions, neglected and rejected from time to time,<note place="margin">An Apoſtraphe to the people,</note> I thinke it may be, not improperly undertaken by the people themſelves, who are alſo concerned in the differences, and in the warre, not only in point of duty and conſcience in reſpect of the King; but alſo in point of Liberty and civill Intereſt, in regard of themſelves.</p>
+               <p>And I would have them in the firſt place to petition his Majeſty for a Generall Act of Oblivion to bee kept inviola<g ref="char:EOLhyphen"/>bly by himſelfe and his poſterity.<note place="margin">To petition the King for an act of Oblivion.</note>
+               </p>
+               <p>Then I would have them, now they underſtand the falſe<g ref="char:EOLhyphen"/>neſſe of their pretended dangers, and their falſeneſſe tou<g ref="char:EOLhyphen"/>ching our Religion, Lawes and Liberties,<note place="margin">A Summe of the whole buſi<g ref="char:EOLhyphen"/>neſſe offered to the people</note> the nature of their Propoſitions, and the ground and end of the warre (under the pretence of defending our Religion, Lawes and Liberties, againſt Popery and Tyranny, endeavoring them<g ref="char:EOLhyphen"/>ſelves and engaging us, with our lives and fortunes,<note place="margin">
+                     <hi>Jerem.</hi> 17.3.</note> to make good their Propoſitions againſt Regalitie and Monarchy) I ſay, I would have the people of the kingdome Generally, both in the City, and in the ſeverall Counties, before they part with any more monies, eyther by way of Taxe or Loane (out of juſt indignation for the many fraudes and fa<g ref="char:EOLhyphen"/>lacies obtruded on them,<note place="margin">To petition the Parliament.</note> and out of a piercing ſenſe of their by-paſt ſufferings, and out of a pious ſence of their Allegi<g ref="char:EOLhyphen"/>ance to the King and Crowne,<note place="margin">
+                     <hi>Iſai</hi> 32.17.</note> and out of providence to their owne good and quiet, and for the good and quiet of poſterity) unanimouſly and vigorouſly to Petition the two houſes of Parliament for the disbanding their Armies,<note place="margin">Pax, quo aequi or, co<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>firmior.</note> and dimantling their Garriſons, and for inviting his Majeſty to his Parliament, and for a ſuddaine Accomodation between them, with due and equall regard to the Kings legall Rights the juſt priviledges of Parliament,<note place="margin">The Kings right taken from him with<g ref="char:EOLhyphen"/>out hearing his Councell.</note> and the legall Libertie of the Subject, to be determined and ſetled in Parliament, and to bee ſo ſtated that hereafter they doe not enterfeire one a<g ref="char:EOLhyphen"/>gainſt another, and to be bounded ſo, that they doe not en<g ref="char:EOLhyphen"/>croach one upon another.</p>
+               <p>
+                  <pb n="20" facs="tcp:114186:14"/>
+                  <note place="margin">Of <hi>Magna Charta,</hi> and of the <hi>Petition of Right.</hi>
+                  </note>In particular, Let the people take care, That (if it be poſ<g ref="char:EOLhyphen"/>ſible) thoſe Muniments of our Liberties <hi>Magna Charta,</hi> and the <hi>Petition of Right,</hi> be not at any time hereafter ſub<g ref="char:EOLhyphen"/>jected eyther to the King, or to the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment, and that we be Governed, not by Ordnances and Votes, and Committees; but by the known Lawes of the Land only, and by the Ordinary Miniſters of juſtice, as well in the time of Parliament as out of it.</p>
+               <p>
+                  <note place="margin">When and how Religion to be ſetled.</note>And when all the differences betweene the King and the Parliament and the Subject are quietly compoſed, and his Majeſty, and the Parliament, and the people quiet and comp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſed in themſelves, then (and not till then) would I have Religion ſetled,<note place="margin">Our Religion aboliſhed with<g ref="char:EOLhyphen"/>out hearing the conformable Clergy.</note> in a full and free convention of Parlia<g ref="char:EOLhyphen"/>ment, after a full and free debate by Divines on all ſides.</p>
+               <p>And above all, I would have the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment and the People, to lay aſide prejudice &amp; partiality, and incline to Truth and Juſtice,<note place="margin">Stand not in e<g ref="char:EOLunhyphen"/>vill things. <hi>Eccleſ.</hi> 8 3.</note> and not to looke after their owne private advantages or Intereſts, but to intend and en<g ref="char:EOLhyphen"/>deavor the publique Peace and Common happineſſe of the Kingdome; Alſo I would have them not carried away with Humor and Faction,<note place="margin">The parliament and the people to lay aſide pre<g ref="char:EOLunhyphen"/>judice, partiali<g ref="char:EOLhyphen"/>ty, ſelfe-inter<g ref="char:EOLhyphen"/>eſt, Humors &amp; Faction, and to bee, guided by ſound princples</note> but to be regulated and guided by ſound Principles of Policy, Religion, Loyalty; of Li<g ref="char:EOLhyphen"/>Liberty (Parliamentary and Common) of Order and Go<g ref="char:EOLhyphen"/>vernment, and of Peace and Unitie. And I adviſe them to ſeeke and purſue theſe things, not ſeverally and apart, but joyntly and together; Policy with Religion, Religion with Loyalty, Loyalty with the priviledge of Parliament, priviledge of Parliament with Liberty, Liberty with Or<g ref="char:EOLhyphen"/>der and Government,<note place="margin">See the premi<g ref="char:EOLhyphen"/>ſes concerning the fundamen<g ref="char:EOLhyphen"/>tall conſtituti<g ref="char:EOLhyphen"/>on of the king<g ref="char:EOLhyphen"/>dom.</note> Governement with Peace and Uni<g ref="char:EOLhyphen"/>ty: For in the due Harmonicall conjunction of all theſe, conſiſts our Civill Happineſſe. And they all Concenter in the fundamentall Conſtitution and Government of the Kingdome, as before.</p>
+               <p>Alſo let them remember that they have Covenanted ex<g ref="char:EOLhyphen"/>preſly, with their Eſtates and Lives, to preſerve and defend the Kings Majeſties Perſon and Authority in the preſerva<g ref="char:EOLhyphen"/>tion
+<pb n="21" facs="tcp:114186:14"/>
+and defence of the true Proteſtant Religion and Li<g ref="char:EOLhyphen"/>berty of the kingdomes;<note place="margin">Let the world judge whether theſe Propoſi<g ref="char:EOLhyphen"/>tions doe not diminiſh his Majeſties juſt power and greatneſſe.</note> ſo that the world may beare wit<g ref="char:EOLhyphen"/>neſſe, with their Conſciences, of their Loyalty, and that they have no thoughts or intentions to diminiſh his Maje<g ref="char:EOLhyphen"/>ſties juſt power and greatneſſe.</p>
+               <p>And how his Majeſty hath endeavored to preſerve and defend the true Proteſtant Religion, againſt Popery; and the Liberty of the kingdome, againſt Tyranny, let all the world judge, and ſee by his Propoſitions.</p>
+               <p>Laſtly,<note place="margin">As their deſigne is againſt the conſtitution of the Kingdom, ſo their procee<g ref="char:EOLhyphen"/>dings are a<g ref="char:EOLhyphen"/>gainſt the con<g ref="char:EOLhyphen"/>ſtitution of Parliament.</note> whereas the Covenanters have now turned their Propoſitions into Bills, and ſeek by violent courſes to com<g ref="char:EOLhyphen"/>pell the King to paſſe them, they muſt know that hereby they overthrow the conſtitution of the Parliament, and make their Propoſitions of none effect alſo, Liberty of Vote being an eſſeentiall priviledge of Parliament, and no act being valid and obligatorie which is not free and volun<g ref="char:EOLhyphen"/>tary, as is fully declared. 15. <hi>E.</hi> 3.</p>
+               <q>
+                  <p>Thus they conceive Chaffe, and bring forth Stubble.<note place="margin">Labor in vaine</note> 
+                     <bibl>Ec. 33.11.</bibl>
+                  </p>
+                  <p>And why doe wee ſpend our Money for that which is not Bread, and our Labour for that which ſatisfyeth not. <bibl>Eſ. 55.2.</bibl>
+                  </p>
+               </q>
+               <q>Who ſo is wiſe will ponder theſe things <bibl>Pſal. 107.43.</bibl>
+               </q>
+               <div type="concluding_prayer">
+                  <p>Now hee in whoſe hands are the Hearts of Kings, and the Inclinations of Kingdomes, grant that the King and
+<pb n="22" facs="tcp:114186:15"/>
+his Parliament, and the People, may have now and ever upright hearts and good affections one to another.</p>
+                  <p>And that under his Majeſty and his Poſteritie Wee, and our Childrens Children may leade a quiet and peaceable Life, in all Godlineſſe and Honeſty:</p>
+                  <closer>Amen. Amen.</closer>
+               </div>
+               <epigraph>
+                  <q>
+                     <p>Not any among the people is like unto him whom the Lord hath Choſen.</p>
+                     <p>And all the people ſhouted and ſaid <hi>God ſave the KING.</hi>
+                     </p>
+                     <bibl>1. Sam. 10.24.</bibl>
+                  </q>
+                  <q>
+                     <p>Love the Truth and Peace.</p>
+                     <bibl>Zach. 8:19.</bibl>
+                  </q>
+               </epigraph>
+            </div>
+            <pb facs="tcp:114186:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
